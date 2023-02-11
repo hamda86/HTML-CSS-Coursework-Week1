@@ -6,3 +6,23 @@
  *    for example: General styles, Navigation styles, Hero styles, Footer etc.
  * 
  */
+body {
+  background: rgba(0, 128, 0, 0.3);
+
+}
+main{
+    
+}
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 30px;
+}
+
+p {
+  font-size: 18px;
+}
+.peacock{
+    display: flex;
+    width: 90%;
+}
